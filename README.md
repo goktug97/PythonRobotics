@@ -6,6 +6,7 @@
 - [optimize nearest_neighbor_assosiation #244](https://github.com/AtsushiSakai/PythonRobotics/pull/244)
 - [change PF resampling function to match with the book #245](https://github.com/AtsushiSakai/PythonRobotics/pull/245)
 - [DWA Fix wrong rotation direction #246](https://github.com/AtsushiSakai/PythonRobotics/pull/246)
+- [Close on key #259](https://github.com/AtsushiSakai/PythonRobotics/pull/259)
 
 # License 
 
