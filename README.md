@@ -8,6 +8,25 @@
 - [DWA Fix wrong rotation direction #246](https://github.com/AtsushiSakai/PythonRobotics/pull/246)
 - [Close on key #259](https://github.com/AtsushiSakai/PythonRobotics/pull/259)
 
+# Authors
+
+- [Atsushi Sakai](https://github.com/AtsushiSakai/) ([@Atsushi_twi](https://twitter.com/Atsushi_twi))
+
+- [Daniel Ingram](https://github.com/daniel-s-ingram)
+
+- [Joe Dinius](https://github.com/jwdinius)
+
+- [Karan Chawla](https://github.com/karanchawla)
+
+- [Antonin RAFFIN](https://github.com/araffin)
+
+- [Alexis Paques](https://github.com/AlexisTM)
+
+- [Ryohei Sasaki](https://github.com/rsasaki0109)
+
+- [Göktuğ Karakaşlı](https://github.com/goktug97)
+
 # License 
 
 MIT
+
